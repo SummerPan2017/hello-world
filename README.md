@@ -1,2 +1,3 @@
 # hello-world
 just a repository to say hello to git
+it's fucking difficult to read the description of git as my level of English and IT skill are too poor for now .However,great progress will be made with my hard work in the next several days.Come on SummerPan,wish u good luck and cheers for your efforts u've made now ,today,torrow and every time u'are moving on ...
